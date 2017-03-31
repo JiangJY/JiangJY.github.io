@@ -29,7 +29,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 https://github.com/JiangJY/JiangJY.github.io/edit/master/README.md
 
-![mahua](mahua-logo.jpg)
+[mahua](mahua-logo.jpg)
 ##MaHua是什么?
 一个在线编辑markdown文档的编辑器
 

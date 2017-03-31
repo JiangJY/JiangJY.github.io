@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/JiangJY/JiangJY.github.io/
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-##Main Interest
+## Main Interest
 Database, Machine Learning and Information Retrieval
  
 ```markdown
